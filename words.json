@@ -1,0 +1,8 @@
+{
+  "words": [
+    "tree", "milk", "blue", "fame",         // 4-letter
+    "apple", "grape", "stone", "fight",     // 5-letter
+    "planet", "bottle", "scream", "flower", // 6-letter
+    "journey", "picture", "kingdom", "fiction" // 7-letter
+  ]
+}
